@@ -127,6 +127,6 @@ Le projet démontre une approche méthodique et complète du développement logi
    - **Description :** Mettre en place une plateforme de blog où les utilisateurs peuvent s'inscrire, créer, éditer et commenter des articles de blog. Les articles peuvent être classés par catégories, et les utilisateurs peuvent suivre d'autres auteurs.
    - **Technologies :** Spring Boot pour la gestion des utilisateurs, la publication d'articles et la gestion des commentaires, Angular pour la création d'articles et la navigation, base de données NoSQL (comme MongoDB) pour stocker les articles et les commentaires.
 
-  ##NOTE:
+  ## NOTE:
   Ce projet est un projet pédagogique pour moi, et j'ai programmé ce projet selon un parcours pédagogique sur YouTube
      
